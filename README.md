@@ -1,0 +1,2 @@
+# anime-aniyomi
+json
